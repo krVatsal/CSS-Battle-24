@@ -1,0 +1,89 @@
+* {
+  background-color: rgb(24, 2, 102);
+}
+nav {
+  margin-top: 20px;
+  display: flex;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 600;
+  color: white;
+  font-style: normal;
+  justify-content: space-around;
+}
+.son1 {
+  margin-left: 45px;
+}
+.main {
+  font-size: 36px;
+  margin-top: 100px;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 600;
+  color: rgb(219, 84, 205);
+  font-style: normal;
+}
+.desc {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+  margin-top: 10px;
+  background-color: rgb(67, 49, 129);
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+.msg input{
+  height: 160px;
+
+}
+
+::placeholder {
+  color: rgb(168, 167, 167);
+  opacity: 1;
+}
+.submit{
+  margin-top: 10px;
+  background-color: rgb(219, 84, 205);
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
+.contact{
+  color: rgb(219, 84, 205);
+
+}
+.coin{
+  font-family: "Madimi One", sans-serif;
+  font-weight: 600;
+  color: rgb(219, 84, 205);
+  font-style: normal;
+  font-size: 36px;
+
+}
+.dad{
+  display: flex;
+  justify-content: space-around;
+}
+.son2{
+  margin-top: 100px;
+}
+.info{
+  margin-top: 10px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.follow{
+  margin-top: 40px;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 600;
+  color: rgb(219, 84, 205);
+  font-style: normal;
+  font-size: 36px;
+}
+.icons{
+display: flex;
+gap: 30px
+;
+}
